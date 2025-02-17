@@ -1,8 +1,8 @@
-<h1 align="left">Hello Friend 🤖</h1>
+<h1 align="left">Hello World! 👋</h1>
 
 ###
 
-<p align="left">My name is David and I'm a Junior Backend Developer!</p>
+
 
 ###
 
