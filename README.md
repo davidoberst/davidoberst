@@ -6,17 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
 
-###
-
-<p align="left">📚 I'm currently learning<br>🔹Python Technologies, Django & APIs 🌐<br>🔹 Data analysis with Pandas 📊<br>🔹 CyberSecurity 💻</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
