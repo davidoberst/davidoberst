@@ -1,8 +1,15 @@
-<h2 align="left">Hi! My name is Juan and I'm a Fullstack Developer from Colombia! 🇨🇴</h2>
+<h2 align="left">Hi! My name is Juan and I'm a Fullstack Developer from Colombia!</h2>
 
 ###
 
-<img align="left" height="121" src="https://img1.picmix.com/output/pic/normal/9/9/7/4/12904799_63680.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidoberst&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidoberst&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="left" height="118" src="https://img1.picmix.com/output/pic/normal/9/9/7/4/12904799_63680.gif"  />
 
 ###
 
@@ -41,8 +48,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://64.media.tumblr.com/7cc1dae8de50aece03c683091b3f5c96/de284bf3d7a80e1f-ac/s540x810/cc3a440793034fdd983fbf018489fc17b0ba48a0.gif"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/davidoberst/davidoberst/output/snake.svg" alt="Snake animation" />
 
 ###
