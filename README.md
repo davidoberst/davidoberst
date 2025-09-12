@@ -1,4 +1,4 @@
-<h2 align="left">I'm Juan, a Fullstack Developer and Cybersecurity Analyst and Pentester from Colombia</h2>
+<h2 align="left">I'm Juan, a Fullstack Developer, Cybersecurity Analyst and Pentester from Colombia</h2>
 
 ###
 
