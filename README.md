@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm Juan, a Jr Fullstack Developer, Cybersecurity Analyst and Pentester from Colombia</h3>
+<h3 align="center">I'm Juan, I enjoy learning...</h3>
 
 ###
 
